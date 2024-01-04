@@ -1,6 +1,5 @@
-<img src="https://github.com/ambikad04/ambikad04/blob/main/github-cover.png" width="100%"><br>
-
 <h1 align="center">👋 Hello World!, I'm Ambika</h1>
+<div align="center"> <img src="https://github.com/ambikad04/ambikad04/blob/main/github-cover.png"> </div>
 <h3 align="center">a passionate web developer on the brink of graduating with a degree in Computer Science.</h3>
 My coding journey began with "Hello World," and since then, I've been crafting digital experiences that bring ideas to life.
 
