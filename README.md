@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/ambikad04/ambikad04/blob/main/github-cover.png"  />
+<img src="https://github.com/ambikad04/ambikad04/blob/main/github-cover.png" width="100%"><br>
 
 <h1 align="center">👋 Hello World!, I'm Ambika</h1>
 <h3 align="center">a passionate web developer on the brink of graduating with a degree in Computer Science.</h3>
