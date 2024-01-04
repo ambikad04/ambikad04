@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello World!, I'm Ambika</h1>
 <h3 align="center">a passionate web developer on the brink of graduating with a degree in Computer Science.</h3>
-<h3 align="center">My coding journey began with "Hello World," and since then, I've been crafting digital experiences that bring ideas to life.</h3>
+My coding journey began with "Hello World," and since then, I've been crafting digital experiences that bring ideas to life.
 
 - 🔭 I’m currently working on **Collage Major Project**
 
