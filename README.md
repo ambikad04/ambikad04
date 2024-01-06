@@ -5,7 +5,7 @@ My coding journey began with "Hello World," and since then, I've been crafting d
 
 - 🔭 I’m currently working on **Temp Track (Personal Project)**
 
-- 🌱 I’m currently learning **MEARN, Android App Development**
+- 🌱 I’m currently learning **Machine Learning with Python**
 
 - 👨‍💻 All of my projects are available at [https://ambikad04.github.io/portfolio/](https://ambikad04.github.io/portfolio/)
 
