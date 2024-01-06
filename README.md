@@ -3,7 +3,7 @@
 <h3 align="center">a passionate web developer on the brink of graduating with a degree in Computer Science.</h3>
 My coding journey began with "Hello World," and since then, I've been crafting digital experiences that bring ideas to life.
 
-- 🔭 I’m currently working on **Collage Major Project**
+- 🔭 I’m currently working on **Temp Track (Personal Project)**
 
 - 🌱 I’m currently learning **MEARN, Android App Development**
 
