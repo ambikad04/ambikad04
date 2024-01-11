@@ -1,6 +1,6 @@
 
 <h1 align="center">👋 Hello World!, I'm Ambika</h1>
-<h3 align="center">a passionate web developer on the brink of graduating with a degree in Computer Science.</h3>
+<h3 align="center">A passionate web developer on the brink of graduating with a degree in Computer Science.</h3>
 My coding journey began with "Hello World," and since then, I've been crafting digital experiences that bring ideas to life.
 
 - 🔭 I’m currently working on **Temp Track (Personal Project)**
