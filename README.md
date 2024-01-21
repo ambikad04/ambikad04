@@ -11,7 +11,7 @@ My coding journey began with "Hello World," and since then, I've been crafting d
 
 - 📫 How to reach me **ambikad0412@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Get in touch:</h3>
 <p align="left">
 <a href="https://instagram.com/aron.lucifer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aron.lucifer" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ambikad04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ambikad04" height="30" width="40" /></a>
