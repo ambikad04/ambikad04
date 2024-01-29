@@ -18,6 +18,8 @@ My coding journey began with "Hello World," and since then, I've been crafting d
 <a href="https://www.hackerearth.com/ambikad2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="ambikad2003" height="30" width="40" /></a>
 </p>
 
+
+
 🚀 Eager to contribute to the ever-expanding universe of technology, I am open to collaboration and always seeking new challenges. Let's connect, code, and create the future of the web together!
 
 Happy coding! 🚧
