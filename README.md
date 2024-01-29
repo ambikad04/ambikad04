@@ -20,7 +20,9 @@ My coding journey began with "Hello World," and since then, I've been crafting d
 
 
 
+<p>
 🚀 Eager to contribute to the ever-expanding universe of technology, I am open to collaboration and always seeking new challenges. Let's connect, code, and create the future of the web together!
 
 Happy coding! 🚧
+</p>
 
