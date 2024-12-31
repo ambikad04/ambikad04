@@ -5,6 +5,13 @@ My coding journey began with "Hello World," and since then, I've been crafting d
 # 💫 About Me:
 Personal Projects<br>ambikadas04@gmail.com<br>Machine Learning<br>
 
+- 🔭 I’m currently working on *Personal Project*
+
+- 🌱 I’m currently learning *Machine Learning Alogrithms*
+
+- 👨‍💻 All of my projects are available at [https://ambikad04.github.io/portfolio/](https://ambikad04.github.io/portfolio/)
+
+- 📫 How to reach me *ambikadas0412@gmail.com*
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/printf.engineer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ambikad04) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ambikad04) 
