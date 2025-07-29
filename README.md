@@ -9,7 +9,7 @@ My coding journey began with "Hello World," and since then, I've been crafting d
 
 - 🌱 I’m currently learning *Machine Learning Alogrithms*
 
-- 👨‍💻 All of my projects are available at [https://ambikad04.github.io/portfolio/](https://ambikad04.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [www.ambikad04.com](https://ambika-d-portfolio.vercel.app)
 
 - 📫 How to reach me *ambikadas0412@gmail.com*
 
