@@ -9,7 +9,7 @@ My coding journey began with "Hello World," and since then, I've been crafting d
 
 - 🌱 I’m currently learning *Blockchain*
 
-- 👨‍💻 All of my projects are available at [www.ambikad04.com](https://ambika-d-portfolio.vercel.app)
+- 👨‍💻 All of my projects are available at 
 
 - 📫 How to reach me *ambikadas0412@gmail.com*
 
